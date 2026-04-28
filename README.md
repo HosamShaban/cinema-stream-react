@@ -12,6 +12,8 @@ This is the **React frontend** for [Cinema Stream](https://github.com/HosamShaba
 
 > **Live Django Backend:** https://cinema-stream-web.fly.dev  
 > Data provided by [The Movie Database (TMDB)](https://www.themoviedb.org/)
+>
+> <img width="1440" height="723" alt="Screenshot 2025-11-27 at 4 01 30 PM" src="https://github.com/user-attachments/assets/2048b5d0-9a75-42e5-924e-31cca0e87263" />
 
 ---
 
